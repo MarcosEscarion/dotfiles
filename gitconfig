@@ -60,5 +60,8 @@
 [init]
   defaultBranch = master
 [user]
-	email = mischadhar94@gmail.com
-	name = Mischa Dhar
+	email = marcos.escarion@gmail.com
+	name = Marcos Escarion
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
